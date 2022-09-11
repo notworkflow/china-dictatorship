@@ -1,0 +1,5 @@
+version: "1"
+rules:
+  - base: gh-pages
+    upstream:  china-dictatorship:gh-pages
+    mergeMethod: hardreset
