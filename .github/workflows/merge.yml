@@ -3,6 +3,13 @@ on:
   schedule:
     - cron: '0 0 * * 1'
     # scheduled for 00:00 every Monday
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+      name:
+        description: 'Merge'
+        default: 'True'
+        required: true
 
 jobs:
   merge-upstream:
