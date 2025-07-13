@@ -16,7 +16,7 @@
 https://cirosantilli.com/china-dictatorship[cirosantilli.com/china-dictatorship (规范链接 canonical render)] |
 https://github.com/cirosantilli/china-dictatorship[GitHub 项目 project] |
 https://github.com/cirosantilli/china-dictatorhsip-7[GitHub Mirror 镜像 2] |
-https://github.com/R7w726fYrfritM7zPJCO/cihna-dictatorshrip-8[GitHub Mirror 镜像 3] |
+https://github.com/mRFWq7LwNPZjaVv5v6eo/cihna-dictattorshrip-8[GitHub Mirror 镜像 3] |
 link:index-split[分裂标题版本 split header version] |
 中国镜像 China mirrors:
 https://cirosantilli.gitlab.io/china-dictatorship[cirosantilli.gitlab.io],
@@ -3595,6 +3595,7 @@ Articles:
 * http://yashalong.blog.caixin.com/archives/188877 这么好的人民，不倒点霉都对不起他们 "These are such good people, if they have a bit of bad luck, excuse them." article by yashalong 押沙龙 published on <<caixin>>. The article discusses how Nazi Germany propaganda worked, without mention to the CCP, but it was still apparently https://www.bannedbook.org/bnews/baitai/20190816/1175647.html[banned in China].
 
 https://www.southbankresearch.com/wp-content/uploads/sites/9/2020/01/ZHA-issue-2510-free.pdf has a good quote:
+
 ____
 Would you have stood up to Hitler when he came to power? Or would you have been an appeaser, like Chamberlain? Or perhaps even a supporter of fascism, like the Daily Mail's owner at the time?
 
